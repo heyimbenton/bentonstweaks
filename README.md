@@ -11,6 +11,9 @@ Good question. These tweaks are little upgrades to the vanilla Minecraft game th
 
 The goal of this resource pack is to change aspects of Minecraft, but keep it feeling like the vanilla game. 
 #
+### ❓How to Install
+Download it. Unzip it. Open your Resource Pack folder. Move it. Select it (in game). 
+#
 ### 💾 Versions
 I will update the pack as often as I feel like it. To see the change log of each version, head over to the 'versions' tab. pLeAsE be sure that you're downloading the version of the pack that lines up with the version of Minecraft you're playing. (I'm not going to upload versions before 1.14, so contact me if you want 1.12 or 1.13)
 #
