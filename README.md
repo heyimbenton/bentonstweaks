@@ -1,4 +1,4 @@
-# vanillatweaks
+# Benton's Vanilla Tweaks
 
 Hi friends!
 
