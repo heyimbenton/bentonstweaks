@@ -2,7 +2,7 @@
 
 Hi friends!
 
-This is the new home of the "Benton's Vanilla Tweaks" resource pack for Minecraft Java Edition. (Hopefully it'll be easier then just sending the file to different people everytime I update the file.)
+This is the new home of the "Benton's Vanilla Tweaks" resource pack for Minecraft Java Edition. (Hopefully it'll be easier then just sending the file to different people everytime I update it.)
 
 Below is some useful information, please read it before downloading or contacting me. 
 #
