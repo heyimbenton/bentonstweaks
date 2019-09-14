@@ -17,6 +17,8 @@ Download it. Unzip it. Open your Resource Pack folder. Move it. Select it (in ga
 ### 💾 Versions
 I will update the pack as often as I feel like it. To see the change log of each version, head over to the 'releases' tab. pLeAsE be sure that you're downloading the version of the pack that lines up with the version of Minecraft you're playing. (I'm not going to upload versions before 1.14, so contact me if you want 1.12 or 1.13)
 #
+### 📸 [Screenshots](https://imgur.com/a/l4ldCiO)
+#
 ### 👀 You Need OptiFine to use this pack
 
 You can download OptiFine [here](https://optifine.net/downloads)
