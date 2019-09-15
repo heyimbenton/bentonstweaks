@@ -7,7 +7,7 @@ This is the new home of the "Benton's Vanilla Tweaks" resource pack for Minecraf
 Below is some useful information, please read it before downloading or contacting me. 
 #
 ### 💁🏼‍♂️ What are "Vanilla Tweaks"?
-Good question. These tweaks are little upgrades to the vanilla Minecraft game that are based on the [original website](vanillatweaks.net) but have my own personal flair. AKA stuff I've compiled from different resource packs, textures and changes I've made myself, and ala-carte textures/ideas from the Minecraft community. 
+Good question. These tweaks are little upgrades to the vanilla Minecraft game that are based on the [original website](https://vanillatweaks.net/) but have my own personal flair. AKA stuff I've compiled from different resource packs, textures and changes I've made myself, and ala-carte textures/ideas from the Minecraft community. 
 
 The goal of this resource pack is to change aspects of Minecraft, but keep it feeling like the vanilla game. 
 #
