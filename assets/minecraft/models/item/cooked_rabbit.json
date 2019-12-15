@@ -1,5 +1,5 @@
 {
-    "parent": "item/smaller_food",
+    "parent": "item/smaller_util",
     "textures": {
         "layer0": "item/cooked_rabbit"
     }
