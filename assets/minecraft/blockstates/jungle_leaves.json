@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+        {  "model": "block/jungle_leaves_bushy" },
+        {  "model": "block/jungle_leaves_bushy1" }
+      ]
+    }
+}
