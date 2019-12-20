@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/oak_wood" }
+    }
+}

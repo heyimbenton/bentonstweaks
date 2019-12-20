@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "axis=y":  { "model": "block/dark_oak_log" }
+    }
+}
