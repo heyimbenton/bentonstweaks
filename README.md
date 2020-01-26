@@ -8,7 +8,7 @@ This is the new home of the "Benton's Tweaks" resource pack for Minecraft Java E
 Below is some useful information, please read it before downloading or contacting me.
 #
 ### 💁🏼‍♂️ What are "Benton's (Vanilla) Tweaks"?
-Good question. These tweaks are little upgrades to the vanilla Minecraft textures and resources that are based on the [original Vanilla Tweaks website](https://vanillatweaks.net/) but have my own personal flair. AKA stuff I've compiled from different resource packs, textures and changes I've made myself, and ala-carte textures/ideas from the Minecraft community. Credits are appropriately given in the "credits.txt" file. 
+Good question. These tweaks are little upgrades to the vanilla Minecraft textures and resources that are based on the [original Vanilla Tweaks website](https://vanillatweaks.net/) but have my own personal flair. AKA stuff I've compiled from different resource packs, textures and changes I've made myself, and ala-carte textures/ideas from the Minecraft community. Credits are appropriately given in the "credits.md" file. 
 
 The goal of this resource pack is to change aspects of Minecraft, but keep it feeling like the vanilla game. 
 #
