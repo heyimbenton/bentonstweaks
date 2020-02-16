@@ -1,4 +1,4 @@
-### Texture credits (A few from each, not all, were used):
+### Texture credits (Not all from each pack were used):
 - Xisumavoid's Vanilla Tweaks
 - futurenp's Nate's Tweaks
 - Arranozo's Vanilla+
