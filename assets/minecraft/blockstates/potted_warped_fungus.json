@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+			{"model": "minecraft:block/potted_warped_fungus", "weight": 60 },
+			{"model": "minecraft:block/potted_warped_fungus1", "weight": 60 },
+			{"model": "minecraft:block/potted_warped_fungus2", "weight": 60 },
+			{"model": "minecraft:block/potted_warped_fungus3", "weight": 20 },
+			{"model": "minecraft:block/potted_warped_fungus4", "weight": 20 },
+			{"model": "minecraft:block/potted_warped_fungus5", "weight": 20 },
+			{"model": "minecraft:block/potted_warped_fungus6", "weight": 20 },
+			{"model": "minecraft:block/potted_warped_fungus7", "weight": 20 },
+			{"model": "minecraft:block/potted_warped_fungus8", "weight": 20 }
+		]
+  }
+}
