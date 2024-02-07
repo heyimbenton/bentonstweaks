@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "block/note_block_flip_spruce",
+        "down": "block/note_block_flip_spruce",
+		"up": "block/note_block_flip_spruce",
+		"north": "block/note_block_spruce",
+		"east": "block/note_block_flip_spruce",
+		"south": "block/note_block_spruce",
+		"west": "block/note_block_spruce"
+    }
+}

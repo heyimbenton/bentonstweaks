@@ -1,7 +1,22 @@
 {
     "variants": {
-        "type=bottom": { "model": "block/dark_prismarine_slab" },
-        "type=top": { "model": "block/dark_prismarine_slab_top" },
-        "type=double": { "model": "block/dark_prismarine_pillar" }
+        "type=bottom": [
+				{ "model": "block/dark_prismarine_slab" },
+				{ "model": "block/dark_prismarine_slab1" },
+				{ "model": "block/dark_prismarine_slab2" },
+				{ "model": "block/dark_prismarine_slab3" }
+			],
+        "type=top": [
+				{ "model": "block/dark_prismarine_slab_top" },
+				{ "model": "block/dark_prismarine_slab_top1" },
+				{ "model": "block/dark_prismarine_slab_top2" },
+				{ "model": "block/dark_prismarine_slab_top3" }
+			],
+        "type=double": [
+				{ "model": "block/dark_prismarine" },
+				{ "model": "block/dark_prismarine1" },
+				{ "model": "block/dark_prismarine2" },
+				{ "model": "block/dark_prismarine3" }
+			]
     }
 }

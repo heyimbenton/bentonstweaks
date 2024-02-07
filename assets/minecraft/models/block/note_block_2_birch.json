@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "block/note_block_birch",
+        "down": "block/note_block_cross2scratched_birch",
+		"up": "block/note_block_clear_birch",
+		"north": "block/note_block_openside_birch",
+		"east": "block/note_block_cross2_birch",
+		"south": "block/note_block_birch",
+		"west": "block/note_block_flip_birch"
+    }
+}

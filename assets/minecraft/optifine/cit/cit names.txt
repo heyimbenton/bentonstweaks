@@ -1,0 +1,28 @@
+Optifine required!
+Rename Netherite Helmet, Diamond Helmet, Golden Helmet, Iron Helmet or Chainmail Helmet  to:
+
+	"the name of the flower + crown"
+
+Examples:
+
+	Cornflower Crown
+	Blue Orchid Crown
+	Allium Crown
+	Pink Tulip Crown
+	White Tulip Crown
+	Lily of the Valley Crown
+	Oxeye Daisy Crown
+	Dandelion Crown
+	Orange Tulip Crown
+	Red Tulip Crown
+	Poppy Crown
+	Wither Rose Crown
+	Red Bush Crown
+	Lilac Crown
+	Peony Crown
+	Sunflower Crown
+
+
+Letters are not case sensitive.
+
+:>

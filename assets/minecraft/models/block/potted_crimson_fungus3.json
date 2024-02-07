@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "block/flower_pot_fruit1",
+		"particle": "block/flower_pot_fruit1"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [11, 6, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 3, 8]},
+			"faces": {
+				"north": {"uv": [3, 3, 6, 6], "texture": "#1"},
+				"east": {"uv": [0, 3, 3, 6], "texture": "#1"},
+				"south": {"uv": [9, 3, 12, 6], "texture": "#1"},
+				"west": {"uv": [6, 3, 9, 6], "texture": "#1"},
+				"up": {"uv": [3, 0, 6, 3], "texture": "#1"},
+				"down": {"uv": [6, 0, 9, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.98284, 6, 6.97574],
+			"to": [7.98284, 10, 8.97574],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.98284, 8, 7.97574]},
+			"faces": {
+				"east": {"uv": [0.5, 1, 1.5, 3], "texture": "#1"},
+				"west": {"uv": [0.5, 1, 1.5, 3], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.98284, 6, 7.97574],
+			"to": [8.98284, 10, 7.97574],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.98284, 8, 7.97574]},
+			"faces": {
+				"north": {"uv": [0.5, 1, 1.5, 3], "texture": "#1"},
+				"south": {"uv": [0.5, 1, 1.5, 3], "texture": "#1"}
+			}
+		}
+	]
+}

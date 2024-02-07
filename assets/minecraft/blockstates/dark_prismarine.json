@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/dark_prismarine", "weight": 66 },
+            { "model": "block/dark_prismarine1", "weight": 33 },
+            { "model": "block/dark_prismarine2", "weight": 33 },
+            { "model": "block/dark_prismarine3", "weight": 16 }
+        ]
+    }
+}

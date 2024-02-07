@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "block/note_block_dark_oak",
+        "down": "block/note_block_cross2scratched_dark_oak",
+		"up": "block/note_block_clear_dark_oak",
+		"north": "block/note_block_openside_dark_oak",
+		"east": "block/note_block_cross2_dark_oak",
+		"south": "block/note_block_dark_oak",
+		"west": "block/note_block_flip_dark_oak"
+    }
+}
