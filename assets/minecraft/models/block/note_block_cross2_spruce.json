@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "block/note_block_cross2_spruce",
+        "down": "block/note_block_cross2scratched_spruce",
+		"up": "block/note_block_cross2scratched_spruce",
+		"north": "block/note_block_cross2_spruce",
+		"east": "block/note_block_cross2_spruce",
+		"south": "block/note_block_cross2_spruce",
+		"west": "block/note_block_cross2_spruce"
+    }
+}

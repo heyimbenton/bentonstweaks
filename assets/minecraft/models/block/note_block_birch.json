@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "block/note_block_birch",
+        "down": "block/note_block_birch",
+		"up": "block/note_block_birch",
+		"north": "block/note_block_birch",
+		"east": "block/note_block_birch",
+		"south": "block/note_block_birch",
+		"west": "block/note_block_birch"
+    }
+}
